@@ -1,0 +1,55 @@
+{
+  "courseId": "amazon-fba-masterclass",
+  "slug": "amazon-fba-masterclass",
+  "title": "Amazon FBA Complete Masterclass",
+  "subtitle": "Build a highly profitable e-commerce business selling on Amazon.",
+  "creatorId": "shahid-anwar",
+  "categoryId": "amazon",
+  "collectionId": "amazon-mastery",
+  "difficulty": "Beginner",
+  "language": "English",
+  "duration": "12 Hours",
+  "lessonsCount": 3,
+  "thumbnail": "/images/courses/amazon-fba-masterclass-thumb.webp",
+  "coverImage": "/images/courses/amazon-fba-masterclass-cover.webp",
+  "description": "Learn the step-by-step blueprint to build a successful Amazon FBA business. This course covers product research, supplier sourcing, listing optimization, PPC advertising, and scaling strategies.",
+  "whatYouWillLearn": [
+    "Find high-demand, low-competition products to sell",
+    "Source products from international suppliers safely",
+    "Optimize product listings for maximum organic rankings",
+    "Run high-converting Amazon PPC advertising campaigns"
+  ],
+  "requirements": [
+    "A computer with internet access",
+    "A budget of $500 - $1,500 to launch your first product"
+  ],
+  "targetAudience": [
+    "Aspiring e-commerce entrepreneurs",
+    "Traditional retail business owners looking to sell online",
+    "Anyone looking for a structured, scalable side business"
+  ],
+  "tags": ["Amazon FBA", "Product Research", "Sourcing", "PPC"],
+  "resources": [
+    {
+      "name": "Amazon FBA Product Research Checklist",
+      "type": "PDF",
+      "size": "1.2 MB",
+      "url": "https://docs.google.com/document/d/example-checklist"
+    },
+    {
+      "name": "Supplier Negotiation Scripts",
+      "type": "ZIP",
+      "size": "240 KB",
+      "url": "https://drive.google.com/file/d/example-negotiation-scripts"
+    }
+  ],
+  "publishedDate": "2025-01-10",
+  "updatedDate": "2026-06-20",
+  "featured": true,
+  "popular": true,
+  "recommended": true,
+  "seo": {
+    "title": "Amazon FBA Complete Masterclass — CourseDock",
+    "description": "Learn the step-by-step roadmap to launch your own profitable Amazon FBA store from industry expert Shahid Anwar."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ai-roadmap",
+  "slug": "ai-roadmap",
+  "title": "AI Roadmap",
+  "description": "From zero coding to building complex prompt layers and AI models. Your comprehensive roadmap to engineering solutions with AI.",
+  "coverImage": "/images/collections/ai-roadmap.webp",
+  "estimatedTime": "60 Hours",
+  "difficulty": "Intermediate",
+  "requiredSkills": ["Basic math concepts", "Introductory coding concepts"],
+  "recommendedOrder": [
+    "python-ai-bootcamp"
+  ]
+}

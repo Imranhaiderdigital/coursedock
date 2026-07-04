@@ -1,0 +1,9 @@
+{
+  "id": "amazon",
+  "slug": "amazon",
+  "title": "Amazon",
+  "description": "Master FBA, Wholesale, Private Label, and PPC. Learn how to launch, optimize, and scale your Amazon business from scratch.",
+  "coverImage": "/images/categories/amazon-cover.webp",
+  "icon": "ShoppingBag",
+  "featured": true
+}

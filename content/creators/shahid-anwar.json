@@ -1,0 +1,22 @@
+{
+  "id": "shahid-anwar",
+  "slug": "shahid-anwar",
+  "name": "Shahid Anwar",
+  "photo": "/images/creators/shahid-anwar.webp",
+  "cover": "/images/creators/shahid-anwar-cover.webp",
+  "bio": "Entrepreneur and seasoned e-commerce expert specialized in Amazon FBA, Shopify, and digital real estate. Over 7 years of active selling and scaling stores.",
+  "specialization": "Amazon FBA & E-commerce",
+  "website": "https://shahidanwar.co",
+  "socialLinks": {
+    "twitter": "https://twitter.com/shahidanwar",
+    "youtube": "https://youtube.com/shahidanwar",
+    "github": "https://github.com/shahidanwar"
+  },
+  "totalCourses": 1,
+  "featured": true,
+  "tags": ["Amazon FBA", "Wholesale", "E-commerce"],
+  "seo": {
+    "title": "Shahid Anwar — Amazon FBA & E-commerce Expert",
+    "description": "Learn from Shahid Anwar, a leading authority on e-commerce, Amazon selling strategies, and dropshipping."
+  }
+}

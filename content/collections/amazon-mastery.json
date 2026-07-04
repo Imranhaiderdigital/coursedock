@@ -1,0 +1,13 @@
+{
+  "id": "amazon-mastery",
+  "slug": "amazon-mastery",
+  "title": "Amazon Mastery",
+  "description": "The ultimate roadmap to master Amazon selling, sourcing, and marketing. Launch your business successfully.",
+  "coverImage": "/images/collections/amazon-mastery.webp",
+  "estimatedTime": "45 Hours",
+  "difficulty": "All Levels",
+  "requiredSkills": ["Basic internet proficiency", "Entrepreneurial mindset"],
+  "recommendedOrder": [
+    "amazon-fba-masterclass"
+  ]
+}

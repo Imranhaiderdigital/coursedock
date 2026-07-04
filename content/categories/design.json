@@ -1,0 +1,9 @@
+{
+  "id": "design",
+  "slug": "design",
+  "title": "UI/UX & Graphic Design",
+  "description": "Design sleek user interfaces, beautiful websites, and high-converting layouts using Figma, visual design principles, and research.",
+  "coverImage": "/images/categories/design-cover.webp",
+  "icon": "Palette",
+  "featured": true
+}

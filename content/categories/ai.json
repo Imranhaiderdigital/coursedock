@@ -1,0 +1,9 @@
+{
+  "id": "ai",
+  "slug": "ai",
+  "title": "Artificial Intelligence",
+  "description": "Explore Prompt Engineering, Machine Learning, Deep Learning, and LLMs. Learn how to build intelligence into your products.",
+  "coverImage": "/images/categories/ai-cover.webp",
+  "icon": "Brain",
+  "featured": true
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "type": "category",
+    "id": "ai",
+    "slug": "ai",
+    "title": "Artificial Intelligence",
+    "subtitle": "Explore Prompt Engineering, Machine Learning, Deep Learning, and LLMs. Learn how to build intelligence into your products.",
+    "thumbnail": "/images/categories/ai-cover.webp"
+  },
+  {
+    "type": "category",
+    "id": "amazon",
+    "slug": "amazon",
+    "title": "Amazon",
+    "subtitle": "Master FBA, Wholesale, Private Label, and PPC. Learn how to launch, optimize, and scale your Amazon business from scratch.",
+    "thumbnail": "/images/categories/amazon-cover.webp"
+  },
+  {
+    "type": "category",
+    "id": "design",
+    "slug": "design",
+    "title": "UI/UX & Graphic Design",
+    "subtitle": "Design sleek user interfaces, beautiful websites, and high-converting layouts using Figma, visual design principles, and research.",
+    "thumbnail": "/images/categories/design-cover.webp"
+  },
+  {
+    "type": "category",
+    "id": "programming",
+    "slug": "programming",
+    "title": "Programming & Development",
+    "subtitle": "Learn modern web development, backend systems, databases, and algorithms using Next.js, React, Python, and TypeScript.",
+    "thumbnail": "/images/categories/programming-cover.webp"
+  },
+  {
+    "type": "creator",
+    "id": "hisham-sarwar",
+    "slug": "hisham-sarwar",
+    "title": "Hisham Sarwar",
+    "subtitle": "Freelancing & Tech Innovation",
+    "thumbnail": "/images/creators/hisham-sarwar.webp"
+  },
+  {
+    "type": "creator",
+    "id": "imran-ali-dina",
+    "slug": "imran-ali-dina",
+    "title": "Imran Ali Dina",
+    "subtitle": "UI/UX & Graphic Design",
+    "thumbnail": "/images/creators/imran-ali-dina.webp"
+  },
+  {
+    "type": "creator",
+    "id": "shahid-anwar",
+    "slug": "shahid-anwar",
+    "title": "Shahid Anwar",
+    "subtitle": "Amazon FBA & E-commerce",
+    "thumbnail": "/images/creators/shahid-anwar.webp"
+  },
+  {
+    "type": "collection",
+    "id": "ai-roadmap",
+    "slug": "ai-roadmap",
+    "title": "AI Roadmap",
+    "subtitle": "From zero coding to building complex prompt layers and AI models. Your comprehensive roadmap to engineering solutions with AI.",
+    "thumbnail": "/images/collections/ai-roadmap.webp"
+  },
+  {
+    "type": "collection",
+    "id": "amazon-mastery",
+    "slug": "amazon-mastery",
+    "title": "Amazon Mastery",
+    "subtitle": "The ultimate roadmap to master Amazon selling, sourcing, and marketing. Launch your business successfully.",
+    "thumbnail": "/images/collections/amazon-mastery.webp"
+  },
+  {
+    "type": "course",
+    "id": "amazon-fba-masterclass",
+    "slug": "amazon-fba-masterclass",
+    "title": "Amazon FBA Complete Masterclass",
+    "subtitle": "Build a highly profitable e-commerce business selling on Amazon.",
+    "thumbnail": "/images/courses/amazon-fba-masterclass-thumb.webp",
+    "category": "amazon",
+    "creator": "shahid-anwar"
+  },
+  {
+    "type": "lesson",
+    "id": "amazon-fba-lesson-01",
+    "slug": "introduction-to-fba",
+    "title": "Introduction to Amazon FBA & Business Models",
+    "subtitle": "Module 1: Foundations",
+    "courseSlug": "amazon-fba-masterclass",
+    "creator": "shahid-anwar"
+  },
+  {
+    "type": "lesson",
+    "id": "amazon-fba-lesson-02",
+    "slug": "product-research-strategies",
+    "title": "Advanced Product Research Strategies",
+    "subtitle": "Module 2: Product Research",
+    "courseSlug": "amazon-fba-masterclass",
+    "creator": "shahid-anwar"
+  },
+  {
+    "type": "lesson",
+    "id": "amazon-fba-lesson-03",
+    "slug": "supplier-sourcing",
+    "title": "Supplier Sourcing and Negotiation",
+    "subtitle": "Module 3: Sourcing",
+    "courseSlug": "amazon-fba-masterclass",
+    "creator": "shahid-anwar"
+  },
+  {
+    "type": "course",
+    "id": "python-ai-bootcamp",
+    "slug": "python-ai-bootcamp",
+    "title": "Python & AI Bootcamp",
+    "subtitle": "Go from absolute coding beginner to building intelligent AI agents.",
+    "thumbnail": "/images/courses/python-ai-bootcamp-thumb.webp",
+    "category": "ai",
+    "creator": "hisham-sarwar"
+  },
+  {
+    "type": "lesson",
+    "id": "python-ai-lesson-01",
+    "slug": "python-setup-and-basics",
+    "title": "Python Setup, Syntax, and First Script",
+    "subtitle": "Module 1: Python Basics",
+    "courseSlug": "python-ai-bootcamp",
+    "creator": "hisham-sarwar"
+  },
+  {
+    "type": "lesson",
+    "id": "python-ai-lesson-02",
+    "slug": "llm-apis-integration",
+    "title": "Integrating Large Language Model APIs",
+    "subtitle": "Module 2: AI Integrations",
+    "courseSlug": "python-ai-bootcamp",
+    "creator": "hisham-sarwar"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "hisham-sarwar",
+  "slug": "hisham-sarwar",
+  "name": "Hisham Sarwar",
+  "photo": "/images/creators/hisham-sarwar.webp",
+  "cover": "/images/creators/hisham-sarwar-cover.webp",
+  "bio": "Pioneer freelancer, tech evangelist, and co-founder of BeingGuru. Hisham has trained over 1 million freelancers globally on freelancing, programming, and AI.",
+  "specialization": "Freelancing & Tech Innovation",
+  "website": "https://hishamsarwar.com",
+  "socialLinks": {
+    "twitter": "https://twitter.com/hishamsarwar",
+    "youtube": "https://youtube.com/hishamsarwar",
+    "linkedin": "https://linkedin.com/in/hishamsarwar"
+  },
+  "totalCourses": 1,
+  "featured": true,
+  "tags": ["Freelancing", "Programming", "AI", "Business Growth"],
+  "seo": {
+    "title": "Hisham Sarwar — Freelancing Pioneer and Tech Trainer",
+    "description": "Learn freelancing, AI development, and client acquisition techniques from pioneer mentor Hisham Sarwar."
+  }
+}

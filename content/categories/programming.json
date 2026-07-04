@@ -1,0 +1,9 @@
+{
+  "id": "programming",
+  "slug": "programming",
+  "title": "Programming & Development",
+  "description": "Learn modern web development, backend systems, databases, and algorithms using Next.js, React, Python, and TypeScript.",
+  "coverImage": "/images/categories/programming-cover.webp",
+  "icon": "Code2",
+  "featured": true
+}

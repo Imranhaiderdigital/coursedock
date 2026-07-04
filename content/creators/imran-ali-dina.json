@@ -1,0 +1,21 @@
+{
+  "id": "imran-ali-dina",
+  "slug": "imran-ali-dina",
+  "name": "Imran Ali Dina",
+  "photo": "/images/creators/imran-ali-dina.webp",
+  "cover": "/images/creators/imran-ali-dina-cover.webp",
+  "bio": "Renowned visual designer and founder of GFXMentor. Teaching design principles, graphic assets creation, and user experience to millions of students worldwide.",
+  "specialization": "UI/UX & Graphic Design",
+  "website": "https://gfxmentor.com",
+  "socialLinks": {
+    "twitter": "https://twitter.com/gfxmentor",
+    "youtube": "https://youtube.com/gfxmentor"
+  },
+  "totalCourses": 1,
+  "featured": true,
+  "tags": ["Figma", "UI/UX Design", "Graphic Design", "Illustrator"],
+  "seo": {
+    "title": "Imran Ali Dina — UI/UX & Graphic Design Educator",
+    "description": "Learn visual identity design and modern user experiences with Imran Ali Dina of GFXMentor."
+  }
+}

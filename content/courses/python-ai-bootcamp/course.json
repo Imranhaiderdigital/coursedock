@@ -1,0 +1,49 @@
+{
+  "courseId": "python-ai-bootcamp",
+  "slug": "python-ai-bootcamp",
+  "title": "Python & AI Bootcamp",
+  "subtitle": "Go from absolute coding beginner to building intelligent AI agents.",
+  "creatorId": "hisham-sarwar",
+  "categoryId": "ai",
+  "collectionId": "ai-roadmap",
+  "difficulty": "Intermediate",
+  "language": "English",
+  "duration": "18 Hours",
+  "lessonsCount": 2,
+  "thumbnail": "/images/courses/python-ai-bootcamp-thumb.webp",
+  "coverImage": "/images/courses/python-ai-bootcamp-cover.webp",
+  "description": "Learn python coding basics and advance towards building AI models, integrating LLM APIs (OpenAI, Gemini), and crafting agentic workflows from scratch.",
+  "whatYouWillLearn": [
+    "Write clean, production-ready Python code",
+    "Integrate and configure OpenAI, Gemini, and Anthropic APIs",
+    "Build fully autonomous conversational agents",
+    "Develop prompt chaining structures for complex operations"
+  ],
+  "requirements": [
+    "No programming experience needed",
+    "A computer with VS Code installed"
+  ],
+  "targetAudience": [
+    "Software engineers wanting to build AI applications",
+    "Non-technical founders aiming to build AI prototypes",
+    "Product managers who need to understand LLM capabilities"
+  ],
+  "tags": ["Python", "AI", "OpenAI", "API", "Gemini"],
+  "resources": [
+    {
+      "name": "Python Cheatsheet",
+      "type": "PDF",
+      "size": "980 KB",
+      "url": "https://github.com/example-python-cheatsheet"
+    }
+  ],
+  "publishedDate": "2025-02-15",
+  "updatedDate": "2026-06-25",
+  "featured": true,
+  "popular": true,
+  "recommended": true,
+  "seo": {
+    "title": "Python & AI Bootcamp — CourseDock",
+    "description": "Master Python and artificial intelligence app development with this comprehensive bootcamp taught by Hisham Sarwar."
+  }
+}
