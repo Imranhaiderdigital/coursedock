@@ -135,5 +135,24 @@
     "subtitle": "Module 2: AI Integrations",
     "courseSlug": "python-ai-bootcamp",
     "creator": "hisham-sarwar"
+  },
+  {
+    "type": "course",
+    "id": "shahid-anwar-amazon-fba",
+    "slug": "shahid-anwar-amazon-fba",
+    "title": "Shahid Anwar Amazon FBA Course",
+    "subtitle": "Learn how to start a profitable Amazon FBA business from scratch with Shahid Anwar.",
+    "thumbnail": "/images/courses/default-thumb.webp",
+    "category": "amazon",
+    "creator": "shahid-anwar"
+  },
+  {
+    "type": "lesson",
+    "id": "safba-lesson-01",
+    "slug": "what-is-amazon",
+    "title": "1 : What is Amazon?",
+    "subtitle": "Module 1: Introduction",
+    "courseSlug": "shahid-anwar-amazon-fba",
+    "creator": "shahid-anwar"
   }
 ]

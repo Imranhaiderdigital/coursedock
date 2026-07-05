@@ -1,0 +1,30 @@
+{
+  "courseId": "shahid-anwar-amazon-fba",
+  "slug": "shahid-anwar-amazon-fba",
+  "title": "Shahid Anwar Amazon FBA Course",
+  "subtitle": "Learn how to start a profitable Amazon FBA business from scratch with Shahid Anwar.",
+  "creatorId": "shahid-anwar",
+  "categoryId": "amazon",
+  "difficulty": "Beginner",
+  "language": "Urdu/Hindi",
+  "duration": "4 Hours",
+  "lessonsCount": 1,
+  "thumbnail": "/images/courses/default-thumb.webp",
+  "coverImage": "/images/courses/default-cover.webp",
+  "description": "This course will guide you through the process of setting up your Amazon Seller Central account, doing product research, finding suppliers, and running your first PPC campaigns.",
+  "whatYouWillLearn": [
+    "Amazon Seller Central Account Setup",
+    "Product Sourcing & Shipments",
+    "Finding Winning Products",
+    "Running PPC Campaigns"
+  ],
+  "requirements": [
+    "A laptop or computer",
+    "Internet Connection"
+  ],
+  "publishedDate": "2026-07-05",
+  "updatedDate": "2026-07-05",
+  "featured": true,
+  "popular": true,
+  "recommended": true
+}
