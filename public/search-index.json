@@ -154,5 +154,14 @@
     "subtitle": "Module 1: Introduction",
     "courseSlug": "shahid-anwar-amazon-fba",
     "creator": "shahid-anwar"
+  },
+  {
+    "type": "lesson",
+    "id": "safba-lesson-02",
+    "slug": "amazon-analytics",
+    "title": "2 : Amazon Analytics",
+    "subtitle": "Module 1: Introduction",
+    "courseSlug": "shahid-anwar-amazon-fba",
+    "creator": "shahid-anwar"
   }
 ]

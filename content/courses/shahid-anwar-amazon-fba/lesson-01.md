@@ -4,8 +4,8 @@ slug: "what-is-amazon"
 title: "1 : What is Amazon?"
 moduleName: "Module 1: Introduction"
 duration: "12:30"
-videoUrl: "https://drive.google.com/file/d/1A2B3C4D5E6F7G8H9I0J/preview"
-downloadUrl: "https://drive.google.com/uc?export=download&id=1A2B3C4D5E6F7G8H9I0J"
+videoUrl: "https://drive.google.com/file/d/1UQXwHkIQj4cfCRE3KqX21bPMluyndlKt/preview"
+downloadUrl: "https://drive.google.com/uc?export=download&id=1UQXwHkIQj4cfCRE3KqX21bPMluyndlKt"
 isFree: true
 ---
 
